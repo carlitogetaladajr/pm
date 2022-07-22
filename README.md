@@ -20,8 +20,8 @@ We are inviting everyone in the community to join the call, including traders, q
 
 ### Previous Meetings
 
-| №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
-| --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| 001 | June 13, 2022 ; 6:00 UTC          | [agenda](https://github.com/ethereum/pm/issues/551) | [notes](https://github.com/darkfire-rain/pm/blob/master/AllCoreDevs-Meetings/Meeting%20141.md)                                             | [video](https://www.youtube.com/watch?v=qu5idP-JLyQ)
-| 002 | June 20, 2022 ; 6:00 UTC          | [agenda](https://github.com/ethereum/pm/issues/551) | [notes](https://github.com/darkfire-rain/pm/blob/master/AllCoreDevs-Meetings/Meeting%20141.md)                                             | [video](https://www.youtube.com/watch?v=qu5idP-JLyQ)
-
+| No. |           Date           |                           Agenda                           |                       Recording                      |
+|-----|:------------------------:|:----------------------------------------------------------:|:----------------------------------------------------:|
+| 001 | June 13, 2022 ; 6:00 UTC | [agenda](https://github.com/carlitogetaladajr/pm/issues/1) | Not Recorded                                         |
+| 002 | June 20, 2022 ; 6:00 UTC | [agenda](https://github.com/carlitogetaladajr/pm/issues/1) | [audio](https://www.youtube.com/watch?v=qu5idP-JLyQ) |
+|     |                          |                                                            |                                                      |
