@@ -20,8 +20,8 @@ We are inviting everyone in the community to join the call, including traders, q
 
 ### Previous Meetings
 
-| No. |           Date           |                           Agenda                           |                       Recording                      |
-|-----|:------------------------:|:----------------------------------------------------------:|:----------------------------------------------------:|
-| 001 | June 13, 2022 ; 6:00 UTC | [agenda](https://github.com/carlitogetaladajr/pm/issues/1) | Not Recorded                                         |
-| 002 | June 20, 2022 ; 6:00 UTC | [agenda](https://github.com/carlitogetaladajr/pm/issues/1) | [audio](https://www.youtube.com/watch?v=qu5idP-JLyQ) |
-|     |                          |                                                            |                                                      |
+| No. |           Date           |                           Agenda                           |    Recording   |
+|-----|:------------------------:|:----------------------------------------------------------:|:--------------:|
+| 001 | June 13, 2022 ; 6:00 UTC | [agenda](https://github.com/carlitogetaladajr/pm/issues/1) | Not Recorded   |
+| 002 | June 20, 2022 ; 6:00 UTC | [agenda](https://github.com/carlitogetaladajr/pm/issues/2) | To Be Uploaded |
+| 003 | June 27, 2022 ; 6:00 UTC | [agenda](https://github.com/carlitogetaladajr/pm/issues/3) | To Be Recorded |
